@@ -1,6 +1,6 @@
 #!/bin/bash
 # Change this for a different location
-defaultLocation="eastus"
+defaultLocation="centralus"
 # Change this for a different resource group name
 defaultRg="eshop-learn-rg"
 
